@@ -1,0 +1,134 @@
+h1{
+
+  padding-bottom:30px;
+  margin-bottom: 20px;
+  
+}
+h2{
+    margin-bottom:40px;
+
+}
+
+body{ 
+    background-image:url(background.jpg);
+    background-size:40%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.container{
+color:red;
+font-style: italic;
+font-weight:bold;
+font-size:20px;
+position:absolute;
+left: -6px;
+top: 200px;
+background-color: blanchedalmond;
+height: 100px;
+width: 40.3%;
+opacity: 0.7;
+text-align:center;
+padding-top:30px;
+background-image:url(logo.png);
+background-size: 190px;
+background-repeat: no-repeat;
+margin-right:-5px;
+}
+
+.msg{
+position: absolute;
+right:-26px;
+top:-20px;
+height: 270px;
+background-color: whitesmoke;
+width:60.9%;
+text-align:center;
+margin: 10px;
+
+
+
+}
+
+.main{
+    position:absolute;
+    top:250px;
+    right:380px;
+}
+#firstname{
+    position:absolute;
+    left: -250px;
+    top: -17px;
+}
+form{
+ position:relative;
+
+}
+#lastname{
+    position: absolute;
+    left: 200px;
+    top: -17px;
+}
+#phone{
+    position: absolute;
+    left: 200px;
+    top:75px ;
+}
+#email{
+    position: absolute;
+    top: 75px;
+    left:-250px
+    
+}
+#password{
+    position:absolute;
+    top: 160px;
+    left:-250px
+    
+}
+
+#spassword{
+    position: absolute;
+    left: 200px;
+    top: 160px;
+}
+.submit{
+    background-color: rgb(226, 226, 233);
+
+    width:61.5%;
+    height: 200px;
+    position: absolute;
+    right:-26px;
+    top:620px;
+    
+    
+}
+hr{
+    border: none;
+    height:10px;
+    width: 100%;
+    margin-top:70px;
+    border-bottom: 1px solid #1f1209;
+    box-shadow: 0 10px 10px;
+    position: absolute;
+    bottom:207px
+}
+
+button{
+background-color: rgba(7, 87, 7, 0.965);
+font-size: 1.2rem;
+font-weight: bold;
+color: aliceblue;
+border-radius: 8px;
+margin: -10px 320px;
+padding: 15px 50px 15px 50px;
+box-shadow: 5px 6px 4px;
+position: absolute;
+bottom: 140px;
+}
+
+#foot{
+margin:70px 320px;
+position:absolute;
+bottom: 13px;
+}
